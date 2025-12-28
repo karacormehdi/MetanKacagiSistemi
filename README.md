@@ -26,7 +26,7 @@ Bu proje, biyogaz üretim tesisleri ve kazan daireleri için geliştirilmiş; ga
 4. NodeMCU'ya yükleyin.
 
 ## 📂 Proje Raporu
-Projenin detaylı TÜBİTAK 2209-A raporuna [buradan](docs/2209-a_sonuc_raporu_Mehdi-KARAÇOR.pdf) ulaşabilirsiniz.
+Projenin detaylı TÜBİTAK 2209-A raporuna [buradan](Metan Kaçağı Sistemi/docs/2209-a_sonuc_raporu_Mehdi-KARAÇOR.pdf) ulaşabilirsiniz.
 
 ## 🎥 Çalışma Videosu
 Projenin detaylı videosuna [buradan](media/prototip_videosu.MP4) ulaşabilirsiniz.
