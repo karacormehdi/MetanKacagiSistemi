@@ -27,8 +27,7 @@ Bu proje, biyogaz üretim tesisleri ve kazan daireleri için geliştirilmiş; ga
 Projenin detaylı TÜBİTAK 2209-A raporuna [buradan](docs/2209-a_sonuc_raporu_Mehdi-KARAÇOR.pdf) ulaşabilirsiniz.
 
 ## 🎥 Çalışma Videosu
-![Video Kapak Resmi](media/prototip_fotosu.jpg)
-*(Videoyu YouTube'a yükleyip buraya linkini koyarsan daha iyi olur)*
+(media/prototip_videosu.MP4)
 
 ---
 **Geliştirici:** Mehdi KARAÇOR
