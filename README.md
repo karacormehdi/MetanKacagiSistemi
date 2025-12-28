@@ -12,10 +12,12 @@ Bu proje, biyogaz üretim tesisleri ve kazan daireleri için geliştirilmiş; ga
 | Malzeme | Model / Açıklama |
 |---|---|
 | Mikrodenetleyici | NodeMCU ESP8266 (Wi-Fi) |
-| Gaz Sensörü | MQ-4 (Metan) veya MQ-135 |
-| Röle | 5V Tek Kanal Röle Modülü |
-| Fan | 12V DC Tahliye Fanı |
+| Gaz Sensörü | MQ-4 (Metan) Gaz Sensörü |
+| Kontrol Elemanları  | 5V Tek Kanal Röle Modülü |
+| Uyarı Sistemi | Aktif Buzzer |
+| Havalandırma  | 12V DC Tahliye Fanı |
 | Güç Kaynağı | 5V Adaptör (NodeMCU) + 12V Adaptör (Fan) |
+| Bağlantı | Jumper Kablolar |
 
 ## 💻 Kurulum ve Kullanım
 1. `src` klasöründeki `.ino` dosyasını Arduino IDE ile açın.
