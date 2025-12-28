@@ -34,3 +34,4 @@ Projenin detaylı videosuna [buradan](media/prototip_videosu.MP4) ulaşabilirsin
 ---
 **Geliştirici:** Mehdi KARAÇOR
 **Lisans:** MIT License
+⭐ Yıldız vermeyi unutmayın, teşekkürler.
